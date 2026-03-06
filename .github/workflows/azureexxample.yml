@@ -1,4 +1,4 @@
-name: Build and deploy JAR app to Azure Web App - springbootexample
+name: Build app to Azure Web App - springbootexample
 
 on:
   push:
